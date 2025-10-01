@@ -1,8 +1,8 @@
-# PMP-2024
+# PMP-2025
 
 ## Instalare
 
-Trebuie instalat o versiune de Python >3.10. Recomandat 3.12. (https://www.python.org/downloads/)
+Trebuie instalat o versiune de Python >3.10. Recomandat 3.13. (https://www.python.org/downloads/)
 
 Pentru instalarea librăriilor necesare, porniți de la lista din `requirements.txt`:
 ```
