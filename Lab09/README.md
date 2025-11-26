@@ -25,5 +25,3 @@ $\theta$ acts as a scaling factor connecting total visitors to buyers ($Y \appro
 * **Why?** It includes two sources of uncertainty:
     1.  **Parameter Uncertainty:** We aren't sure what $n$ is (from step 1).
     2.  **Sampling Uncertainty:** Even if we knew $n$ perfectly, the number of buyers is random (Binomial noise).
-    
-Mathematically, the predictive posterior is the average of all possible Binomial distributions weighted by the posterior probability of $n$.
